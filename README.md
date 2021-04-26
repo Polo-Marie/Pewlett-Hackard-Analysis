@@ -16,12 +16,17 @@ Based on the results:
 
   ![](Mentorship_Eligibility.png)
 
- - The Membership Eligibility Program is based solely on retiring individuals born between January 1, 1965 and December 31, 1965, giving a very short window of time to be eligible to mentor rising employees
+ - The Membership Eligibility Program only qualifies retiring individuals born between January 1, 1965 and December 31, 1965, giving a very short window of time to be eligible to mentor rising employees
 
+  - The highest technical positions are the positions lacking the most replacements, by the thousands,  and would require the greatest training:
+    - Senior Engineers
+    - Senion Staff
+    - Engineers
+   
 
 ## Analysis Summary:
 
-To summarize, Pewlett-Packertt is severely behind on replacing valuable employees approaching retirement. As visible in both tables above in the summary, the first table shows that there are over 90,000 employees headed to retirement, and the second table shows that only about 1,500 of them qualify for the mentorship program, and the program allows qualification for only 1 specified birth year for every employee. As a result, the following questions must be answered:
+To summarize, Pewlett-Packertt is severely behind on replacing valuable employees approaching retirement. As visible in both tables above in the summary, the first table shows that there are over 90,000 employees headed to retirement, and the second table shows that only about 1,500 of them qualify for the mentorship program, and the program allows qualification for only 1 specified birth year for every employee. It is the positions that are the heart of the company that need the most replacements (Senior Engineers, Engineers, Senior Staff), that if they are not replaced and not replaced properly, it could place the company in grave jeopardy. As a result, the following questions must be answered:
 
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
    - In order to meet the "silver tsunami", 88,849 roles will need to be filled very soon.
