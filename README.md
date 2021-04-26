@@ -9,21 +9,25 @@ The following analysis, performed for the company Pewlett-Hackard, was to determ
 ## Analysis Results:
 Based on the results:
  - 90,398 titles of individuals will be retiring from the company soon based on the date of birth of 1/01/1952 and 12/31/1955
+
+  ![](Retiring_titles.png)
+
  - Only 1,549 of them qualify for the mentorship program, a program designed to mentor and train their future replacements
- - The titles that will be retiring soon are:
-   - Senior Engineer
-   - Senior Staff
-   - Engineer
-   - Staff
-   - Technique Leader
-   - Assistant Engineer
-   - Manager
+
+  ![](Mentorship_Eligibility.png)
+
  - The Membership Eligibility Program is based solely on retiring individuals born between January 1, 1965 and December 31, 1965, giving a very short window of time to be eligible to mentor rising employees
 
 
 ## Analysis Summary:
 
-In conclusion, Pewlett-Packertt is severely behind on replacing valuable emloyees who are near retirement. 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+To summarize, Pewlett-Packertt is severely behind on replacing valuable employees approaching retirement. As visible in both tables above in the summary, the first table shows that there are over 90,000 employees headed to retirement, and the second table shows that only about 1,500 of them qualify for the mentorship program, and the program allows qualification for only 1 specified birth year for every employee. As a result, the following questions must be answered:
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+   - In order to meet the "silver tsunami", 88,849 roles will need to be filled very soon.
+
+2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+   - There are not enough qualified and retirement-ready employees in the department to mentor the next generation of Pewlett Hackard employees. The mentorship only lasts 1 year of a specified birth year so the company is providing very limited room for themselves and the soon-to-be retirees to get rising employees on board and fully trained for the positions that are to open up.
+
+In conclusion, if Pewlett-Hackard really wanted to prepare for the "silver tsunami", they will need to greatly expand their mentorship program beyond just those born in 1965, (the latest year to retire), they should expand it to a multi-year window and provide flexibility within the workday for employees to train their mentees. Surely there are many young employees who would appreciate and take advantage of the training/mentorship. If Pewlett-Hackard do not  take advantage of this time, they will be looking at a very big career fair within the next couple of years and more. 
+
